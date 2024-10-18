@@ -1,4 +1,1 @@
-xhofe/alist:latest
-cloudnas/clouddrive2:latest
-aultwarden/server:latest
-gdy666/lucky:latest
+vaultwarden/server
