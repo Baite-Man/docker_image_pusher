@@ -1,1 +1,1 @@
-vaultwarden/server
+metacubex/mihomo:latest
